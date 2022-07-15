@@ -8,5 +8,6 @@ public class ai {
         System.out.println("hello Git!4");
         System.out.println("hello Git!5");
         System.out.println("push git");
+        System.out.println("pull git");
     }
 }
